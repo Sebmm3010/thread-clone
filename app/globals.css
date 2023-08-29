@@ -80,7 +80,7 @@
   }
 
   .leftsidebar_link {
-    @apply relative flex justify-start gap-4 rounded-lg p-4;
+    @apply relative flex justify-start gap-4 rounded-lg p-4 hover:ring-1 hover:ring-gray-500;
   }
 
   .pagination {
